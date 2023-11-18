@@ -33,7 +33,7 @@ body {
 }
 
 .bg {
-    background-image: url("../imgs/bg.jpg");
+    background-image: url("../imgs/bg.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     z-index: -3;
