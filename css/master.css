@@ -87,6 +87,7 @@ p,h3 {
     .card {
         padding-left: 15px;
         padding-right: 15px;
+        height: 100vh;
     }
 
     .palestine {
