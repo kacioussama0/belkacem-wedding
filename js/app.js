@@ -80,7 +80,7 @@ Confettiful.prototype._renderConfetti = function() {
 window.confettiful = new Confettiful(document.querySelector('.js-container'));
 
 
-let audio = new Audio('js/baraka.mp3');
+let audio = new Audio('js/audio.mp3');
 
 audio.addEventListener("canplaythrough", () => {
     audio.play().catch(e => {
